@@ -1,0 +1,7 @@
+{
+  "name": "lab1-main",
+  "version": "1.0.0",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
